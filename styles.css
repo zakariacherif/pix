@@ -150,6 +150,7 @@ form > input ,select{
     width: 79vw;
     border: 1px solid rgb(253 65 1);
     border-radius: 7px;
+    padding: 10px;
 }
 form > select {
     font-family: Alexandria;
